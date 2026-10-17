@@ -2,7 +2,7 @@
 
 Plataforma web e mobile de recomendação de restaurantes que cruza o contexto do cliente (ocasião, vibe, orçamento, região, culinária e comodidades) com as características de cada restaurante, para indicar o lugar certo para o momento, e não apenas o mais bem avaliado.
 
-Artefatos produzidos no 1º bimestre — Engenharia de Software, Universidade Estadual de Maringá.
+Engenharia de Software, Universidade Estadual de Maringá.
 
 ## Equipe
 
